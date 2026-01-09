@@ -182,7 +182,7 @@ Architecture utilisée :
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Ayoub Motei**  
 
